@@ -1,1 +1,26 @@
-git init [trilhadeaprendizagemfrontendp1]
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: LightGrey;
+}
+
+h1 {
+  color: SlateBlue;
+  text-align: center;
+}
+
+p {
+  font-family: roboto;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>Meu primeiro projeto CSS</h1>
+<p>Faremos sobre a Ilha de Brocoió</p>
+
+</body>
+</html>
