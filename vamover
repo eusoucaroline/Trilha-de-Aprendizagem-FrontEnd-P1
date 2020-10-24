@@ -1,14 +1,23 @@
-<!DOCTYPE html>
 <html>
 <head>
-<style>
-body {  background-color: LightGrey;}
-h1 {  color: SlateBlue;  text-align: center;}
-p {  font-family: roboto;  font-size: 20px;}
-</style>
+	<style type="text/css">
+	h1{font-family: Segoe UI; font-size: 50pix; color: MediumSlateBlue; text-align: center; }	
+	p{font-family: Segoe UI; font-size: 20; color: #03535B;}
+
+
+	</style>
 </head>
+
+
 <body>
-<h1>Meu primeiro projeto CSS</h1>
-<p>Faremos sobre a Ilha de Brocoió</p>
+	<title>muito nojenta</title>
+
+	<h1>Coé, esse é o meu primeiro site</h1>
+	
+	<p>Será que isso realmente roda no chrome? Estou nervosa</p>
+	<p>Shitakes são muito feios, mas gostosos</p>
+	
+	<img src="shitake feio.jpg">
 </body>
+
 </html>
