@@ -1,23 +1,19 @@
+<!DOCTYPE html>
 <html>
-<head>
+	<head>
+		<title>muito nojenta</title>
+
 	<style type="text/css">
 	h1{font-family: Segoe UI; font-size: 50pix; color: MediumSlateBlue; text-align: center; }	
 	p{font-family: Segoe UI; font-size: 20; color: #03535B;}
-
-
 	</style>
-</head>
+	</head>
 
 
-<body>
-	<title>muito nojenta</title>
-
-	<h1>Coé, esse é o meu primeiro site</h1>
-	
-	<p>Será que isso realmente roda no chrome? Estou nervosa</p>
-	<p>Shitakes são muito feios, mas gostosos</p>
-	
-	<img src="shitake feio.jpg">
-</body>
-
+	<body>
+		<h1>Coé, esse é o meu primeiro site</h1>
+		<p>Será que isso realmente roda no chrome? Estou nervosa</p>
+		<p>Shitakes são muito feios, mas gostosos</p>
+		<img src="shitake feio.jpg">
+	</body>
 </html>
